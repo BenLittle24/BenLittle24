@@ -24,7 +24,7 @@ I also enjoy dabbling in **game development and modifications** as a creative ou
 
    - Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter.
   
-   - ToDo: Link Repo
+   - If you'd like to learn more, feel free to take a look at my [Cook County Housing Prices](https://github.com/BenLittle24/CookCountyHousingPrices) repository! 
 
 2. **NFL Moneyball Data Analysis and Visualization**  
    - Analyzed NFL performance metrics to uncover undervalued players and impactful contributions towards team success. The project involved data collection, processing, and cleaning, as well as deriving and normalizing key metrics. Interactive visualizations were designed to present insights effectively. Additionally, I experimented with HTML scraping scripts to gather salary data, which proved surprisingly difficult to acquire compared to the majority of player performance metrics.
