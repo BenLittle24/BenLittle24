@@ -31,7 +31,7 @@ I also enjoy dabbling in **game development and modifications** as a creative ou
    
    - Tools: Tableau, Excel.
   
-   - ToDo: Link presentation
+   - For more information about this project, including a video presentation and detailed write-up, see the [NFL Moneyball](https://github.com/BenLittle24/NFL-Moneyball.git) repository. 
 <!--
 3. **SIR Modeling for Disease Spread**  
    - Simulated and visualized disease spread using various modeling techniques, including matrix-based methods.  
@@ -63,13 +63,18 @@ I also enjoy dabbling in **game development and modifications** as a creative ou
 ---
 
 ### What I'm Working On
-I'm currently working on expanding my knowledge in **machine learning** and **artificial intelligence**, while exploring new frameworks to enhance my skills.
 
-ToDo: Improve and expand with draft from Google docs 
+I’m currently preparing to start courses in **machine learning** and **artificial intelligence**, which I’m very excited to explore further. I hope these courses will help me build a strong foundation in AI concepts and applications, but I’ve already started brainstorming personal projects to complement my studies. 
+
+One idea I’m considering is a project that explores sign language recognition. I expect that the initial phase would involve using algorithms like k-Means or k-Nearest Neighbors to classify static sign language symbols in simple digital images, such as illustrated representations. As the project progresses, I’d aim to expand it to recognize symbols from static human hand images, which I anticipate will be a significant undertaking and require more advanced techniques and data preprocessing. Ultimately, the “stretch” or ambitious goal would be to develop a system capable of interpreting dynamic human hand movements in real time. Should the project reach this point, I’d think deep learning or AI driven methods would be necessary. 
+
+While this is just an idea in its early stages, this project aligns with my interests in AI and its potential to solve meaningful and practical problems. I’m sure this project would be a heck of a splinter with its fair share of challenges, but as I said before, I appreciate the process of tackling tough problems and refining solutions.
+
+In the meantime, I’ve been revisiting my previous projects and improving their accessibility by organizing them on GitHub. For example, I’ve been working on creating a public Tableau dashboard to showcase my NFL Moneyball project and visualizations. While the visualizations and interactions function well on my local machine, transitioning to a public Tableau server so that they can be easily shared has introduced unexpected limitations. This is definitely frustrating, but I can’t help but wonder how it can be improved. 
 
 ---
 
-### Let's Connect
+### Let's Connect!
 [LinkedIn Profile](www.linkedin.com/in/benjamin-little-49b1a71a8)
 
 
